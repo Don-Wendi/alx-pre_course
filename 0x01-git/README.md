@@ -2,7 +2,7 @@
 My first repository of my first ALX project! In this project, completed on my zero-day at ALX, I was introduced to Git and GitHub; specifically, I started practicing creating repositories, commiting, pushing code, createing and merging branches, pulling updates, and working as a collaborator.
 
 ## Contents
-* [bash: A directory containing the files `alx`, `school` and `98`].(./bash)
+* [bash: A directory containing the files `alx`, `school` and `98`.](./bash)
 * [c : A directory containing the file `c_is_fun.c`.](./c)
 * [`up_to_date`: A file containing the git command to update a local repository from GitHub.](./up_to_date)
 * [`.gitignore`: A file that defines a rule to never push `~` files.](./.gitignore)
