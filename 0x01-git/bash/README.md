@@ -8,6 +8,6 @@ This directory contains three files uploaded for the following tasks:
 * **4. Collaboration: be up to date**
 
 ## Contents;
-* `alx`: A Bash script containing the command `echo "ALX School is so cool"`
-* `school`: A Bash script containing the command `echo "The school is open!"`
-* `98`: Empty file`
+* [`alx`: A Bash script containing the command `echo "ALX School is so cool"`](./alx)
+* [`school`: A Bash script containing the command `echo "The school is open!"`](./school)
+* [`98`: Empty file`](./98)
